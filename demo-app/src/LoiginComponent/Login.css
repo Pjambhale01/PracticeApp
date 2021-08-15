@@ -1,0 +1,22 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+    font-family: "inter";
+}
+
+.login_form{
+    display: flex;
+    flex-direction: column;
+}
+.login_form>h1{
+    font-size: 35px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    letter-spacing: -1;
+}
+.login_form>input{
+    width: 380px;
+}
